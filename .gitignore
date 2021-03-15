@@ -1,0 +1,6 @@
+*.local
+*.dsk
+*.identcache
+*.skincfg
+__history
+/demos/bin
